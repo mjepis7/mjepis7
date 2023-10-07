@@ -1,8 +1,8 @@
-## 🙂 Welcome to my Github Profile
+## Welcome to my Github Profile 🙂
 
 <h3>Hi, my name is Maria Eduarda Iwashita</h3>
 
-- 🔥 Web Developer and design enthusiast
+- 🔥 Front-end Developer and design enthusiast
 
 - 🔭 I’m studying at University of São Paulo
 
