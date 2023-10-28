@@ -6,7 +6,7 @@
 
 - 🔭 I’m studying at University of São Paulo
 
-- 👨‍💻 I’m currently learning TypeScript and React native
+- 👨‍💻 I’m currently learning TypeScript and React 
 
 ---
 
