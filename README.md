@@ -2,7 +2,7 @@
 
 <h3>Hi, my name is Maria Eduarda Iwashita</h3>
 
-- 🔥 Front-end Developer and design enthusiast
+- 🔥 Front-end Developer and game enthusiast
 
 - 🔭 I’m studying at University of São Paulo
 
