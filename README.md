@@ -1,6 +1,6 @@
 ## Welcome to my Github Profile 🙂
 
-<h3>Hi, my name is Maria Eduarda Iwashita</h3>
+<h3>Hi, my name is Maria Eduarda Iwashita e Silva</h3>
 
 - 🔥 Front-end Developer and game enthusiast
 
