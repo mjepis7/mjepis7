@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=892CDC&random=false&width=500&lines=Hello%2C+world!+My+name+is+Maria+Eduarda;Welcome+to+my+Github+Profile+%F0%9F%99%82)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&size=22&pause=1000&color=892CDC&random=false&width=650&lines=Hello%2C+world!+My+name+is+Maria+Eduarda+Iwashita;Welcome+to+my+Github+Profile+%F0%9F%99%82)](https://git.io/typing-svg)
 
 - 🔥 Front-end Developer and game enthusiast
 
