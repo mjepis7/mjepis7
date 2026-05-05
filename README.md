@@ -4,7 +4,7 @@
 
 - 🔭 I’m studying at University of São Paulo
 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning React
 
 ---
 
@@ -18,5 +18,8 @@
   </a>
 </p>
 
-![snake gif](https://github.com/mjepis7/mjepis7/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjepis7/mjepis7/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/mjepis7/mjepis7/output/github-snake.svg" />
+</picture>
 ###
