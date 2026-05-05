@@ -1,10 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&size=22&pause=1000&color=892CDC&random=false&width=650&lines=Hello%2C+world!+My+name+is+Maria+Eduarda+Iwashita;Welcome+to+my+Github+Profile+%F0%9F%99%82)](https://git.io/typing-svg)
 
-- 🔥 Front-end Developer and game enthusiast
+- 🔥 Dev Intern at Taqtile
 
-- 🔭 I’m studying at University of São Paulo
+- 🎓 Information Systems student at University of São Paulo (USP)
 
-- 🌱 I’m currently learning React
+- 🚀 Focused on becoming a Full-Stack Software Engineer
+
+- 🌱 Currently learning React and improving my backend skills
 
 ---
 
