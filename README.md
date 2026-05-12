@@ -23,6 +23,6 @@
 ### 📊 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjepis7/mjepis7/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/mjepis7/mjepis7/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjepis7/mjepis7/output/github-snake-dark.svg?v=2">
+  <img src="https://raw.githubusercontent.com/mjepis7/mjepis7/output/github-snake.svg?v=2" />
 </picture>
