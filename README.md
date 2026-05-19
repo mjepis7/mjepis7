@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=650&size=22&pause=1000&color=892CDC&random=false&width=650&lines=Hello%2C+world!+My+name+is+Maria+Eduarda+Iwashita;Welcome+to+my+Github+Profile+%F0%9F%98%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=650&size=25&pause=1000&color=892CDC&random=false&width=750&lines=Hello%2C+world!+My+name+is+Maria+Eduarda+Iwashita;Welcome+to+my+Github+Profile+%F0%9F%98%8A)](https://git.io/typing-svg)
 
 - 🔥 Dev Intern at Taqtile
 
